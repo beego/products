@@ -12,17 +12,15 @@ Showcase of Beego products.
 
 3. Add an entry to projects.json with these properties:
 
-```json
-{
-	"Name": "Beeweb", // Name of your product
-	"Thumb": "beeweb/thumb.jpg", // Thumb image path (optional)
-	"Desc": "Beego official WebSite", // Description of your product
-	"Url": "http://beego.me", // Url link of your product
-	"Src": "https://github.com/beego/beeweb", // Source code url of your product (optional)
-	"Submitter": "slene", // your name
-	"Date": "2013-12-22"
-}
-```
+    {
+    	"Name": "Beeweb", // Name of your product
+    	"Thumb": "beeweb/thumb.jpg", // Thumb image path (optional)
+    	"Desc": "Beego official WebSite", // Description of your product
+    	"Url": "http://beego.me", // Url link of your product
+    	"Src": "https://github.com/beego/beeweb", // Source code url of your product (optional)
+    	"Submitter": "slene", // your name
+    	"Date": "2013-12-22"
+    }
 
 4. Send a pull request
 
