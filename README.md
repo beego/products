@@ -24,4 +24,4 @@ Showcases of Beego products.
 
 4. Send a pull request
 
-[中文说明](https://github.com/beego/products/blob/master/README_ZH.md)
+[中文说明](https://github.com/beego/products/blob/master/README_zh.md)
