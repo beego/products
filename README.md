@@ -1,6 +1,6 @@
 # [http://beego.me/products](http://beego.me/products)
 
-Showcase of Beego products.
+Showcases of Beego products.
 
 ## Submit your product
 
