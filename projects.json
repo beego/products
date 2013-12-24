@@ -1,9 +1,9 @@
 {
 	"Projects": [
 		{
-			"Name": "Beeweb",
+			"Name": "Beego Web",
 			"Thumb": "beeweb/thumb.jpg",
-			"Desc": "Beego official WebSite",
+			"Desc": "Beego official website",
 			"Url": "http://beego.me",
 			"Src": "https://github.com/beego/beeweb",
 			"Submitter": "slene",
@@ -16,6 +16,15 @@
    		 	"Url": "http://www.OutCast.io",
    		 	"Src": "",
     		"Submitter": "Ardan Studios",
+    		"Date": "2013-12-23"
+		},
+		{
+    		"Name": "Go Walker",
+    		"Thumb": "gowalker/gowalker.png",
+    		"Desc": "Go Project API Documentation",
+   		 	"Url": "http://www.gowalker.org",
+   		 	"Src": "https://github.com/Unknwon/gowalker",
+    		"Submitter": "Unknown",
     		"Date": "2013-12-23"
 		}
 	]
