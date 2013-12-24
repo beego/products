@@ -8,7 +8,7 @@
             "Src": "https://github.com/beego/beeweb",
             "Submitter": "slene",
             "Date": "2013-12-22"
-  },
+        },
         {
             "Name": "Outcast",
             "Thumb": "outcast/thumb.png",
@@ -17,7 +17,7 @@
             "Src": "",
             "Submitter": "Ardan Studios",
             "Date": "2013-12-23"
-  },
+        },
         {
             "Name": "Go Walker",
             "Thumb": "gowalker/gowalker.png",
@@ -26,7 +26,7 @@
             "Src": "https://github.com/Unknwon/gowalker",
             "Submitter": "Unknown",
             "Date": "2013-12-23"
-  },
+        },
         {
             "Name": "Bmob",
             "Thumb": "bmob/thumb.jpg",
@@ -35,15 +35,15 @@
             "Src": "",
             "Submitter": "icedroid",
             "Date": "2012-03-31"
-  },
+        },
         {
-            "Name": "Rack Online", // Name of your product
-            "Thumb": "rackol / rackol.png ", // Thumb image path (optional)
-            "Desc": "online network / os / database lab enviroment ", // Description of your product
-            "Url": "http: //rackol.com", // Url link of your product
-            "Src": "", // Source code url of your product (optional)
-            "Submitter": "shavac", // your name
+            "Name": "Rack Online",
+            "Thumb": "rackol/rackol.png", 
+            "Desc": "Online network/OS/Database lab enviroment", 
+            "Url": "http://rackol.com", 
+            "Src": "", 
+            "Submitter": "shavac", 
             "Date": "2013-12-25"
-}
+        }
  ]
 }
