@@ -44,6 +44,15 @@
             "Src": "", 
             "Submitter": "shavac", 
             "Date": "2013-12-25"
+        },
+        {
+            "Name": "GoBlog",
+            "Thumb": "goblog/thumb.png", 
+            "Desc": "基于beego框架的博客系统", 
+            "Url": "http://lisijie.org", 
+            "Src": "", 
+            "Submitter": "lisijie", 
+            "Date": "2013-12-26"
         }
  ]
 }
