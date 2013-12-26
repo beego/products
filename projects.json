@@ -62,6 +62,15 @@
               "Src": "",
               "Submitter": "liufuqiang",
               "Date": "2013-12-26"
-          }
+          },
+         {
+            "Name": "MessageBlog",
+            "Thumb": "messageblog/messageblog.png",
+            "Desc": "A simple blog system",
+            "Url": "http://115.29.40.132/",
+            "Src": "https://github.com/MessageDream/MessageBlog/",
+            "Submitter": "MessageDream",
+            "Date": "2013-12-25"
+         }
  ]
 }
