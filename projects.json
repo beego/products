@@ -53,6 +53,15 @@
             "Src": "", 
             "Submitter": "lisijie", 
             "Date": "2013-12-26"
+        },
+        {
+            "Name": "360OpenSearch",
+            "Thumb": "360opensearch/logo.png", 
+            "Desc": "360企业级开放搜索平台，基于beego框架的API案例", 
+            "Url": "http://www.so.com", 
+            "Src": "", 
+            "Submitter": "liufuqiang", 
+            "Date": "2013-12-26"
         }
  ]
 }
