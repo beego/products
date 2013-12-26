@@ -57,7 +57,7 @@
         {
               "Name": "360 Open Search",
               "Thumb": "360opensearch/logo.jpg",
-              "Desc": "基于Beego的API开发，360搜索开放平台，提供企业级搜索合作支持",
+              "Desc": "基于 beego 的 API 开发，360搜索开放平台，提供企业级搜索合作支持",
               "Url": "http://www.so.com",
               "Src": "",
               "Submitter": "liufuqiang",
@@ -86,6 +86,7 @@
             "Thumb": "moonlightter/thumb.png",
             "Desc": "颜色保存网站",
             "Url": "http://moonlightter.duyizhuo.com",
+            "Src": "",
             "Submitter": "dyzdyz010",
             "Date": "2013-12-26"
         },
