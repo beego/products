@@ -71,6 +71,15 @@
             "Src": "https://github.com/MessageDream/MessageBlog/",
             "Submitter": "MessageDream",
             "Date": "2013-12-25"
-         }
+         },
+        {
+            "Name": "MartianBlog",
+            "Thumb": "martianblog/thumb.png",
+            "Desc": "A simple beautiful blog system",
+            "Url": "http://blog.duyizhuo.com",
+            "Src": "https://github.com/dyzdyz010/MartianBlog",
+            "Submitter": "dyzdyz010",
+            "Date": "2013-12-26"
+        }
  ]
 }
