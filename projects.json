@@ -53,6 +53,15 @@
             "Src": "", 
             "Submitter": "lisijie", 
             "Date": "2013-12-26"
-        }
+        },
+        {
+              "Name": "360 Open Search",
+              "Thumb": "360opensearch/360.jpg",
+              "Desc": "基于Beego的API开发，360搜索开放平台，提供企业级搜索合作支持",
+              "Url": "http://www.so.com",
+              "Src": "",
+              "Submitter": "liufuqiang",
+              "Date": "2013-12-26"
+          }
  ]
 }
