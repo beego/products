@@ -80,6 +80,15 @@
             "Src": "https://github.com/dyzdyz010/MartianBlog",
             "Submitter": "dyzdyz010",
             "Date": "2013-12-26"
-        }
+        },
+		{
+		    "Name": "Weico3", 
+			"Thumb": "weico/thumb.png",
+		    "Desc": "Weico3接口", 
+		    "Url": "http://www.weico.com/weico_apple", 
+			"Src": "",
+		    "Submitter": "fanngyuan",
+		    "Date": "2013-12-22"
+		}
  ]
 }
