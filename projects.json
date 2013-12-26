@@ -93,7 +93,7 @@
 		{
 		    "Name": "Buzzinsights", 
 			"Thumb": "buzzinsights/thumb.jpg",
-		    "Desc": "buzzinsights 微博数据接口等", 
+		    "Desc": "buzzinsights 微博数据接口，底层API实现以及全文搜索服务等", 
 		    "Url": "http://buzzinsights.buzzreader.cn/",
 			"Src": "",
 		    "Submitter": "tony.shao", 
