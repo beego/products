@@ -50,7 +50,7 @@
             "Thumb": "goblog/thumb.png", 
             "Desc": "基于beego框架的博客系统", 
             "Url": "http://lisijie.org", 
-            "Src": "", 
+            "Src": "https://github.com/lisijie/goblog", 
             "Submitter": "lisijie", 
             "Date": "2013-12-26"
         }
