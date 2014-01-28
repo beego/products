@@ -116,6 +116,15 @@
 			"Src": "",
 		    "Submitter": "Pengfei.X",
 		    "Date": "2014-01-15"
+		},
+		{
+		    "Name": "VideoCollege",
+			"Thumb": "videocollege/videocollege.png",
+		    "Desc": "基于beego开发的视频教学系统",
+		    "Url": "http://www.meitianbikan.com",
+			"Src": "",
+		    "Submitter": "phpqinsir",
+		    "Date": "2014-01-28"
 		}
  ]
 }
