@@ -118,7 +118,7 @@
 		    "Date": "2014-01-15"
 		},
 		{
-		    "Name": "视频教学系统",
+		    "Name": "VideoSystem",
 			"Thumb": "meitianbikan/meitianbikan.png",
 		    "Desc": "基于beego开发的视频教学系统",
 		    "Url": "http://video.meitianbikan.com/",
