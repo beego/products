@@ -38,20 +38,20 @@
         },
         {
             "Name": "Rack Online",
-            "Thumb": "rackol/rackol.png", 
-            "Desc": "Online network/OS/Database lab enviroment", 
-            "Url": "http://rackol.com", 
-            "Src": "", 
-            "Submitter": "shavac", 
+            "Thumb": "rackol/rackol.png",
+            "Desc": "Online network/OS/Database lab enviroment",
+            "Url": "http://rackol.com",
+            "Src": "",
+            "Submitter": "shavac",
             "Date": "2013-12-25"
         },
         {
             "Name": "GoBlog",
-            "Thumb": "goblog/thumb.png", 
-            "Desc": "基于beego框架的博客系统", 
-            "Url": "http://lisijie.org", 
-            "Src": "https://github.com/lisijie/goblog", 
-            "Submitter": "lisijie", 
+            "Thumb": "goblog/thumb.png",
+            "Desc": "基于beego框架的博客系统",
+            "Url": "http://lisijie.org",
+            "Src": "https://github.com/lisijie/goblog",
+            "Submitter": "lisijie",
             "Date": "2013-12-26"
         },
         {
@@ -91,21 +91,21 @@
             "Date": "2013-12-26"
         },
 		{
-		    "Name": "Weico3", 
+		    "Name": "Weico3",
 			"Thumb": "weico/thumb.png",
-		    "Desc": "Weico3接口", 
-		    "Url": "http://www.weico.com/weico_apple", 
+		    "Desc": "Weico3接口",
+		    "Url": "http://www.weico.com/weico_apple",
 			"Src": "",
 		    "Submitter": "fanngyuan",
 		    "Date": "2013-12-22"
 		},
 		{
-		    "Name": "Buzzinsights", 
+		    "Name": "Buzzinsights",
 			"Thumb": "buzzinsights/thumb.jpg",
-		    "Desc": "buzzinsights 微博数据接口，底层API实现以及全文搜索服务等", 
+		    "Desc": "buzzinsights 微博数据接口，底层API实现以及全文搜索服务等",
 		    "Url": "http://buzzinsights.buzzreader.cn/",
 			"Src": "",
-		    "Submitter": "tony.shao", 
+		    "Submitter": "tony.shao",
 		    "Date": "2013-12-22"
 		},
 		{
@@ -125,6 +125,15 @@
 			"Src": "",
 		    "Submitter": "phpqinsir",
 		    "Date": "2014-01-26"
-		}
+		},
+        {
+            "Name": "Typecho应用商店",
+            "Thumb": "typecho-app-store/thumb.png",
+            "Desc": "基于beego开发的Typecho应用商店",
+            "Url": "http://typecho.dilicms.com/",
+            "Src": "https://github.com/typecho-app-store/typecho-app-store",
+            "Submitter": "chekun",
+            "Date": "2014-05-08"
+        }
  ]
 }
