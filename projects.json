@@ -134,6 +134,15 @@
             "Src": "https://github.com/typecho-app-store/typecho-app-store",
             "Submitter": "chekun",
             "Date": "2014-05-08"
+        },
+        {
+            "Name": "OrangeCMS",
+            "Thumb": "OrangeCMS/thumb.png",
+            "Desc": "基于beego开发的CMS系统",
+            "Url": "http://www.orangesh.com",
+            "Src": "",
+            "Submitter": "linbaozhong",
+            "Date": "2014-4-22"
         }
  ]
 }
