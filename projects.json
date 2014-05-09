@@ -137,7 +137,7 @@
         },
         {
             "Name": "OrangeCMS",
-            "Thumb": "OrangeCMS/thumb.png",
+            "Thumb": "orangeCMS/thumb.png",
             "Desc": "基于beego开发的CMS系统",
             "Url": "http://www.orangesh.com",
             "Src": "",
