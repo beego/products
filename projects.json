@@ -143,6 +143,15 @@
             "Src": "",
             "Submitter": "linbaozhong",
             "Date": "2014-4-22"
+        },
+        {
+            "Name": "Beego-Blog",
+            "Thumb": "beego-blog/thumb.png",
+            "Desc": "基于beego开发Blog系统",
+            "Url": "http://blog.ulricqin.com/",
+            "Src": "https://github.com/UlricQin/beego-blog",
+            "Submitter": "UlricQin",
+            "Date": "2014-05-11"
         }
  ]
 }
