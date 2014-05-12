@@ -140,7 +140,7 @@
             "Thumb": "orangeCMS/thumb.png",
             "Desc": "基于beego开发的CMS系统",
             "Url": "http://www.orangesh.com",
-            "Src": "",
+            "Src": "https://github.com/linbaozhong/orangecms",
             "Submitter": "linbaozhong",
             "Date": "2014-4-22"
         }
