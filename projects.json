@@ -153,13 +153,22 @@
             "Submitter": "UlricQin",
             "Date": "2014-05-11"
         },
-	{
+	   {
             "Name": "Biandanrong",
             "Thumb": "biandanrong/thumb.jpg",
             "Desc": "基于beego开发的投融资平台",
             "Url": "http://www.biandanrong.com/",
             "Src": "",
             "Submitter": "ace7",
+            "Date": "2014-09-12"
+        },
+        {
+            "Name": "YouGam轻量级社区系统",
+            "Thumb": "yougam/thumb.png",
+            "Desc": "基于reddit投票与v2ex概念设计的轻量级社区",
+            "Url": "http://www.yougam.com/",
+            "Src": "",
+            "Submitter": "insion",
             "Date": "2014-09-12"
         }
  ]
