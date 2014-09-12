@@ -153,13 +153,40 @@
             "Submitter": "UlricQin",
             "Date": "2014-05-11"
         },
-	   {
+	    {
             "Name": "Biandanrong",
             "Thumb": "biandanrong/thumb.jpg",
             "Desc": "基于beego开发的投融资平台",
             "Url": "http://www.biandanrong.com/",
             "Src": "",
             "Submitter": "ace7",
+            "Date": "2014-09-12"
+        },
+        {
+            "Name": "香港Interla室内设计公司",
+            "Thumb": "interla/thumb.png",
+            "Desc": "香港Interla室内设计公司网站",
+            "Url": "http://interla.net/",
+            "Src": "https://github.com/insionng/toropress",
+            "Submitter": "insion",
+            "Date": "2014-09-12"
+        },
+        {
+            "Name": "艾美美容中心",
+            "Thumb": "ibeautys/thumb.png",
+            "Desc": "艾美美容中心网站",
+            "Url": "http://www.ibeautys.com/",
+            "Src": "https://github.com/insionng/toropress",
+            "Submitter": "insion",
+            "Date": "2014-09-12"
+        },
+        {
+            "Name": "SudoChina问答社区系统",
+            "Thumb": "sudochina/thumb.png",
+            "Desc": "SudoChina问答社区系统",
+            "Url": "http://www.sudochina.com/",
+            "Src": "https://github.com/insionng/sdc",
+            "Submitter": "insion",
             "Date": "2014-09-12"
         },
         {
