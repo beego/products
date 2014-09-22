@@ -153,7 +153,7 @@
             "Submitter": "UlricQin",
             "Date": "2014-05-11"
         },
-	{
+	    {
             "Name": "Biandanrong",
             "Thumb": "biandanrong/thumb.jpg",
             "Desc": "基于beego开发的投融资平台",
@@ -161,6 +161,51 @@
             "Src": "",
             "Submitter": "ace7",
             "Date": "2014-09-12"
+        },
+        {
+            "Name": "香港Interla室内设计公司",
+            "Thumb": "interla/thumb.png",
+            "Desc": "香港Interla室内设计公司网站",
+            "Url": "http://interla.net/",
+            "Src": "https://github.com/insionng/toropress",
+            "Submitter": "insion",
+            "Date": "2014-09-12"
+        },
+        {
+            "Name": "艾美美容中心",
+            "Thumb": "ibeautys/thumb.png",
+            "Desc": "艾美美容中心网站",
+            "Url": "http://www.ibeautys.com/",
+            "Src": "https://github.com/insionng/toropress",
+            "Submitter": "insion",
+            "Date": "2014-09-12"
+        },
+        {
+            "Name": "SudoChina问答社区系统",
+            "Thumb": "sudochina/thumb.png",
+            "Desc": "SudoChina问答社区系统",
+            "Url": "http://www.sudochina.com/",
+            "Src": "https://github.com/insionng/sdc",
+            "Submitter": "insion",
+            "Date": "2014-09-12"
+        },
+        {
+            "Name": "YouGam轻量级社区系统",
+            "Thumb": "yougam/thumb.png",
+            "Desc": "基于reddit投票与v2ex概念设计的轻量级社区",
+            "Url": "http://www.yougam.com/",
+            "Src": "",
+            "Submitter": "insion",
+            "Date": "2014-09-12"
+        },
+        {
+            "Name": "腾讯游戏CF枪王排位",
+            "Thumb": "cf/cf.png",
+            "Desc": "腾讯游戏CF枪王排位：约战系统",
+            "Url": "http://cf.qq.com/rank/duel.shtml",
+            "Src": "",
+            "Submitter": "danghf",
+            "Date": "2014-09-13"
         },
         {
             "Name": "mycomputer",
