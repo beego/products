@@ -206,6 +206,15 @@
             "Src": "",
             "Submitter": "danghf",
             "Date": "2014-09-13"
+        },
+        {
+            "Name": "mycomputer",
+            "Thumb": "mycomputer/thumb.png",
+            "Desc": "基于beego开发的收藏者网站",
+            "Url": "http://mycomputer.xyz/",
+            "Src": "https://github.com/tobegit3hub/mycomputer",
+            "Submitter": "tobe",
+            "Date": "2014-09-22"
         }
  ]
 }
