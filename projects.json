@@ -215,6 +215,15 @@
             "Src": "https://github.com/tobegit3hub/mycomputer",
             "Submitter": "tobe",
             "Date": "2014-09-22"
+        },
+        {
+            "Name": "blog",
+            "Thumb": "blog/thumb.png",
+            "Desc": "基于beego的博客",
+            "Url": "http://duguying.net",
+            "Src": "https://github.com/duguying/blog",
+            "Submitter": "rex",
+            "Date": "2014-09-25"
         }
  ]
 }
