@@ -231,7 +231,7 @@
 		"Desc": "a nice blog build with beego",
 		"Url": "http://www.doubleliu.com",
 		"Src": "https://github.com/jxufeliujj/blog",
-		"Submitter": "double", // 你的名字
+		"Submitter": "double",
 		"Date": "2014-09-25"
 	}
  ]
