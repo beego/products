@@ -225,14 +225,14 @@
             "Submitter": "rex",
             "Date": "2014-09-25"
         },
-		{
-			"Name": "my-blog", // 案例名称
-			"Thumb": "my-blog/blog.jpg", // 图片路径 （可选）
-			"Desc": "a nice blog build with beego", // 案例描述
-			"Url": "http://www.doubleliu.com", // 案例URL地址
-			"Src": "https://github.com/jxufeliujj/blog", // 项目源码地址 （可选）
-			"Submitter": "double", // 你的名字
-			"Date": "2014-09-25"
-		}
+	{
+		"Name": "my-blog",
+		"Thumb": "my-blog/blog.jpg",
+		"Desc": "a nice blog build with beego",
+		"Url": "http://www.doubleliu.com",
+		"Src": "https://github.com/jxufeliujj/blog",
+		"Submitter": "double", // 你的名字
+		"Date": "2014-09-25"
+	}
  ]
 }
