@@ -224,6 +224,15 @@
             "Src": "https://github.com/duguying/blog",
             "Submitter": "rex",
             "Date": "2014-09-25"
-        }
+        },
+	{
+		"Name": "my-blog",
+		"Thumb": "my-blog/blog.jpg",
+		"Desc": "a nice blog build with beego",
+		"Url": "http://www.doubleliu.com",
+		"Src": "https://github.com/jxufeliujj/blog",
+		"Submitter": "double",
+		"Date": "2014-09-25"
+	}
  ]
 }
