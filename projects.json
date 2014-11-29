@@ -225,14 +225,23 @@
             "Submitter": "rex",
             "Date": "2014-09-25"
         },
-	{
-		"Name": "my-blog",
-		"Thumb": "my-blog/blog.jpg",
-		"Desc": "a nice blog build with beego",
-		"Url": "http://www.doubleliu.com",
-		"Src": "https://github.com/jxufeliujj/blog",
-		"Submitter": "double",
-		"Date": "2014-09-25"
-	}
- ]
+    	{
+    		"Name": "my-blog",
+    		"Thumb": "my-blog/blog.jpg",
+    		"Desc": "a nice blog build with beego",
+    		"Url": "http://www.doubleliu.com",
+    		"Src": "https://github.com/jxufeliujj/blog",
+    		"Submitter": "double",
+    		"Date": "2014-09-25"
+    	},
+        {
+            "Name": "golearns",
+            "Thumb": "golearns/thumb.png",
+            "Desc": "基于beego的博客",
+            "Url": "http://golearns.org",
+            "Src": "https://github.com/m2lan/Go/tree/master/src/myblog",
+            "Submitter": "M2",
+            "Date": "2014-11-29"
+        }
+    ]
 }
