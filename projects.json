@@ -243,5 +243,14 @@
             "Submitter": "M2",
             "Date": "2014-11-29"
         }
+        {
+            "Name": "中文百科通行证",
+            "Thumb": "zwbk/thumb.jpg",
+            "Desc": "基于beego的单点登陆系统",
+            "Url": "http://passport.zwbk.org",
+            "Src": "",
+            "Submitter": "starchou",
+            "Date": "2014-12-18"
+        }
     ]
 }
