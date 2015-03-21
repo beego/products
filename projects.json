@@ -73,13 +73,13 @@
             "Date": "2013-12-25"
          },
         {
-            "Name": "MartianBlog",
-            "Thumb": "martianblog/thumb.png",
-            "Desc": "A simple beautiful blog system",
+            "Name": "Blog",
+            "Thumb": "dyzblog/thumb.png",
+            "Desc": "A simple blog system enables more than one writer shares the site.",
             "Url": "http://blog.duyizhuo.com",
-            "Src": "https://github.com/dyzdyz010/MartianBlog",
+            "Src": "https://github.com/dyzdyz010/Blog",
             "Submitter": "dyzdyz010",
-            "Date": "2013-12-26"
+            "Date": "2015-3-21"
         },
         {
             "Name": "Moonlightter",
