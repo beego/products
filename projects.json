@@ -251,6 +251,15 @@
             "Src": "",
             "Submitter": "starchou",
             "Date": "2014-12-18"
+        },
+        {
+            "Name": "Mosaic Mage",
+            "Thumb": "mosaicmage/thumb.jpg",
+            "Desc": "Create unique mosaics from your favorite photos.",
+            "Url": "http://mosaicmage.com",
+            "Src": "",
+            "Submitter": "dbriemann",
+            "Date": "2015-04-26"
         }
     ]
 }
