@@ -262,6 +262,15 @@
             "Date": "2015-04-26"
         },
         {
+            "Name": "Seagull",
+            "Thumb": "seagull/thumb.png",
+            "Desc": "Friendly Web UI to monitor docker daemon.",
+            "Url": "http://dockerseagull.com",
+            "Src": "https://github.com/tobegit3hub/seagull",
+            "Submitter": "tobe",
+            "Date": "2015-05-01"
+        },
+        {
             "Name": "好卖进销存",
             "Thumb": "sellgood/thumb.jpg",
             "Desc": "个体经营者的进销存统计系统",
