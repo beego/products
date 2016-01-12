@@ -287,6 +287,15 @@
             "Src": "",
             "Submitter": "smile42ru",
             "Date": "2015-05-28"
+        },
+		{
+            "Name": "Webcron",
+            "Thumb": "webcron/thumb.png",
+            "Desc": "定时任务管理器",
+            "Url": "",
+            "Src": "https://github.com/lisijie/webcron",
+            "Submitter": "lisijie",
+            "Date": "2015-12-28"
         }
     ]
 }
