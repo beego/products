@@ -296,6 +296,15 @@
             "Src": "https://github.com/lisijie/webcron",
             "Submitter": "lisijie",
             "Date": "2015-12-28"
+        },
+        {
+            "Name": "LearnGo",
+            "Thumb": "learngo/thumb.png",
+            "Desc": "Personal blog",
+            "Url": "http://www.learngo.hu/",
+            "Src": "",
+            "Submitter": "virago80",
+            "Date": "2016-04-16"
         }
     ]
 }
