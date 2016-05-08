@@ -305,6 +305,15 @@
             "Src": "",
             "Submitter": "virago80",
             "Date": "2016-04-16"
+        },
+        {
+            "Name": "金薇内衣官方授权网站",
+            "Thumb": "kiviebra/thumb.jpg",
+            "Desc": "金薇内衣官方授权网站,基于beego构建整站！",
+            "Url": "http://www.kiviebra.cc",
+            "Src": "",
+            "Submitter": "xjjrocker",
+            "Date": "2016-05-08"
         }
     ]
 }
