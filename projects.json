@@ -314,6 +314,15 @@
             "Src": "",
             "Submitter": "yaotian",
             "Date": "2016-05-16"
+        },
+        {
+            "Name": "简约博客-simple blog",
+            "Thumb": "simpleblog/blog.png",
+            "Desc": "简约博客-简单快乐，自带后台，带基础数据统计",
+            "Url": "http://deepzz.com/",
+            "Src": "https://github.com/deepzz0/goblog",
+            "Submitter": "deepzz",
+            "Date": "2016-05-20"
         }
 
     ]
