@@ -323,6 +323,15 @@
             "Src": "https://github.com/deepzz0/goblog",
             "Submitter": "deepzz",
             "Date": "2016-05-20"
+        },
+        {
+            "Name": "统一任务调度平台",
+            "Thumb": "scheduler/1.png",
+            "Desc": "支持对job的管理、监控以及任务分发负载均衡等功能",
+            "Url": "https://github.com/shotdog/scheduler",
+            "Src": "https://github.com/shotdog/scheduler",
+            "Submitter": "shotdog",
+            "Date": "2016-05-24"
         }
 
     ]
