@@ -326,7 +326,7 @@
         },
         {
             "Name": "统一任务调度平台",
-            "Thumb": "scheduler/1.png",
+            "Thumb": "scheduler/thumb.png",
             "Desc": "支持对job的管理、监控以及任务分发负载均衡等功能",
             "Url": "https://github.com/shotdog/scheduler",
             "Src": "https://github.com/shotdog/scheduler",
