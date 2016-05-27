@@ -336,7 +336,7 @@
         {
             "Name": "版本发布系统",
             "Thumb": "gopub/screenshot.png",
-            "Desc": "支持对job的管理、监控以及任务分发负载均衡等功能",
+            "Desc": "基于Git的代码发布系统，用于发布PHP等脚本语言开发的项目。",
             "Url": "https://github.com/lisijie/gopub",
             "Src": "https://github.com/lisijie/gopub",
             "Submitter": "lisijie",
