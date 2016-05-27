@@ -332,6 +332,15 @@
             "Src": "https://github.com/shotdog/scheduler",
             "Submitter": "shotdog",
             "Date": "2016-05-24"
+        },
+        {
+            "Name": "版本发布系统",
+            "Thumb": "gopub/screenshot.png",
+            "Desc": "支持对job的管理、监控以及任务分发负载均衡等功能",
+            "Url": "https://github.com/lisijie/gopub",
+            "Src": "https://github.com/lisijie/gopub",
+            "Submitter": "lisijie",
+            "Date": "2016-05-27"
         }
 
     ]
