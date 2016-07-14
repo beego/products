@@ -341,7 +341,16 @@
             "Src": "https://github.com/lisijie/gopub",
             "Submitter": "lisijie",
             "Date": "2016-05-27"
-        }
+        },
+        {
+            "Name": "Lesson Time",
+            "Thumb": "lesson-time/thumb.png",
+            "Desc": "Lesson Time is a digital lesson note for music teacher and student. Lesson Timeは、先生と生徒のレッスンに役立つデジタルレッスンノートです。",
+            "Url": "https://lesson-time.com/",
+            "Src": "",
+            "Submitter": "TOON Kikaku",
+            "Date": "2016-07-14"
+        } 
 
     ]
 }
