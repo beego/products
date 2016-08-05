@@ -28,6 +28,15 @@
             "Date": "2013-12-23"
         },
         {
+            "Name": "Beauty Art",
+            "Thumb": "beautyart/thumb.png",
+            "Desc": "广州缀美画室官网| Art Training Center Website",
+            "Url": "http://beauty.lenggirl.com",
+            "Src": "https://github.com/hunterhug/beautyart",
+            "Submitter": "hunterhug",
+            "Date": "2016-08-05"
+        }
+        {
             "Name": "Bmob",
             "Thumb": "bmob/thumb.jpg",
             "Desc": "Bmob移动后端云服务平台",
