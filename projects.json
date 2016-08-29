@@ -368,6 +368,15 @@
             "Src": "https://github.com/zituocn/22v",
             "Submitter": "Sam",
             "Date": "2016-08-21"           
-        }
+        },
+        {
+        	"Name": "mgweb", 
+        	"Thumb": "mgweb/thumb.jpg", 
+        	"Desc": "mongoldb web管理工具", 
+        	"Url": "http://mgweb.no3g.com/",
+        	"Src": "https://github.com/29392964/mgweb", 
+        	"Submitter": "Sec",
+        	"Date": "2016-08-29"
+	}
     ]
 }
