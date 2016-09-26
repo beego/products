@@ -395,6 +395,15 @@
         	"Src": "https://github.com/lock-upme/OPMS", 
         	"Submitter": "lock",
         	"Date": "2016-09-12"
-		}
+		},
+    {
+        "Name": "朋也社区-GO",
+        "Thumb": "pybbs/pybbs.png",
+        "Desc": "朋也社区-GO语言版本",
+        "Url": "https://github.com/tomoya92/pybbs-go",
+        "Src": "https://github.com/tomoya92/pybbs-go",
+        "Submitter": "tomoya",
+        "Date": "2016-09-26"
+    }
     ]
 }
