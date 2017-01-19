@@ -408,7 +408,7 @@
         {
             "Name": "FoxWho Blog",
             "Thumb": "foxwho/thumb.png",
-            "Desc": "FoxWho的博客，个人文集集散地，支持简单CSDN博客同步，创建，更新",
+            "Desc": "FoxWho 的博客，个人文集集散地，支持简单CSDN博客同步，创建，更新",
             "Url": "https://www.foxwho.com",
             "Src": "https://github.com/foxiswho/blog-go",
             "Submitter": "FoxWho",
