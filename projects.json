@@ -404,6 +404,15 @@
         "Src": "https://github.com/tomoya92/pybbs-go",
         "Submitter": "tomoya",
         "Date": "2016-09-26"
-    }
+    },
+        {
+            "Name": "FoxWho Blog",
+            "Thumb": "foxwho/thumb.png",
+            "Desc": "FoxWho 的博客，个人文集集散地，支持简单CSDN博客同步，创建，更新",
+            "Url": "https://www.foxwho.com",
+            "Src": "https://github.com/foxiswho/blog-go",
+            "Submitter": "FoxWho",
+            "Date": "2016-12-01"
+        }
     ]
 }
