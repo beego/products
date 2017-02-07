@@ -413,6 +413,15 @@
             "Src": "https://github.com/foxiswho/blog-go",
             "Submitter": "FoxWho",
             "Date": "2016-12-01"
+        },
+        {
+            "Name": "SST运维作业平台",
+            "Thumb": "SST/screenshot.jpg",
+            "Desc": "-- 基于GO语言和Saltstack开发的WEB运维平台",
+            "Url": "https://github.com/duliang123/SST",
+            "Src": "https://github.com/duliang123/SST",
+            "Submitter": "duliang123",
+            "Date": "2017-02-07"
         }
     ]
 }
