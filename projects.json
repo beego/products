@@ -422,6 +422,15 @@
             "Src": "https://github.com/duliang123/SST",
             "Submitter": "duliang123",
             "Date": "2017-02-07"
+        },
+        {
+            "Name": "ERP系统,侧重进销存",
+            "Thumb": "goERP/goERP.png",
+            "Desc": "基于beego开发的ERP系统",
+            "Url": "https://github.com/hexiaoyun128/ERP",
+            "Src": "https://github.com/hexiaoyun128/ERP",
+            "Submitter": "cloudy",
+            "Date": "2017-02-23"
         }
     ]
 }
