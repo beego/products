@@ -432,14 +432,23 @@
             "Submitter": "cloudy",
             "Date": "2017-02-23"
         },
-				{
-			    "Name": "SoftRadius计费系统",
-	  			"Thumb": "softradius/thumb.png",
-			    "Desc": "基于beego开发的radius计费系统,用户名:admin,密码:admin", 
-			    "Url": "https://github.com/cuu/softradius_system", 
-			    "Src": "https://github.com/cuu/softradius_system", 
-			    "Submitter": "cuu",
-			    "Date": "2017-03-17"
-				}
+		{
+		    "Name": "SoftRadius计费系统",
+	  		"Thumb": "softradius/thumb.png",
+		    "Desc": "基于beego开发的radius计费系统,用户名:admin,密码:admin", 
+		    "Url": "https://github.com/cuu/softradius_system", 
+		    "Src": "https://github.com/cuu/softradius_system", 
+		    "Submitter": "cuu",
+		    "Date": "2017-03-17"
+		},
+		{
+		    "Name": "集成开发平台",
+	  		"Thumb": "hauth/thumb.png",
+		    "Desc": "基于beego开发的大数据分析平台,只开源权限管理模块,用户名:demo,密码:123456", 
+		    "Url": "https://github.com/hzwy23/hauth", 
+		    "Src": "https://github.com/hzwy23/hauth", 
+		    "Submitter": "hzwy23",
+		    "Date": "2017-03-17"
+		}
     ]
 }
