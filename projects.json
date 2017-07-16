@@ -449,6 +449,16 @@
 		    "Src": "https://github.com/hzwy23/hauth", 
 		    "Submitter": "hzwy23",
 		    "Date": "2017-03-17"
+		},
+	    {
+		    "Name": "mojotv魔焦TV",
+	  	    "Thumb": "mojotv/index.png",
+		    "Desc": "轻松学英语,欧美,搞笑gif动图短片,最新欧美娱乐资讯", 
+		    "Url": "https://www.mojotv.cn", 
+		    "Src": "https://github.com/JJJJJJJerk", 
+		    "Submitter": "Eric Zhou",
+		    "Date": "2017-07-16"
 		}
+	    
     ]
 }
