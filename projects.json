@@ -458,6 +458,15 @@
 	    "Src": "https://github.com/JJJJJJJerk", 
 	    "Submitter": "Eric Zhou",
 	    "Date": "2017-07-16"
-	}    
+	},
+	{
+	    "Name": "SINGULERP",
+	    "Thumb": "singulerp/Dashboard.png",
+	    "Desc": "SaaS Cloud based ERP for the manufacturing industry.", 
+	    "Url": "https://singulerp.com", 
+	    "Src": "", 
+	    "Submitter": "Caslino",
+	    "Date": "2017-07-27"
+	}       
     ]
 }
