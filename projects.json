@@ -467,6 +467,15 @@
 	    "Src": "", 
 	    "Submitter": "Caslino",
 	    "Date": "2017-07-27"
-	}       
+	},
+	{
+		"Name": "Beego work",
+		"Thumb": "beeweb/admin.png",
+		"Desc": "Beego work前后分离框架",
+		"Url": "http://beego.me",
+		"Src": "https://github.com/dawc/work",
+		"Submitter": "dawc",
+		"Date": "2017-08-25"
+    },     
     ]
 }
