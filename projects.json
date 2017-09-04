@@ -470,7 +470,7 @@
 	},
 	{
 		"Name": "Beego work",
-		"Thumb": "beeweb/admin.png",
+		"Thumb": "beego-work/admin.png",
 		"Desc": "Beego work前后分离框架",
 		"Url": "http://beego.me",
 		"Src": "https://github.com/dawc/work",
