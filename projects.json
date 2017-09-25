@@ -476,6 +476,15 @@
 		"Src": "https://github.com/dawc/work",
 		"Submitter": "dawc",
 		"Date": "2017-08-25"
-        }   
+    },
+    {
+        "Name": "PPGo-Job 定时任务管理器",
+        "Thumb": "PPGo_Job/demo.png",
+        "Desc": "定时任务管理，支持跨服务器分发任务",
+        "Url": "http://www.haodaquan.com/82",
+        "Src": "https://github.com/george518/PPGo_Job",
+        "Submitter": "GeorgeHao",
+        "Date": "2017-09-23"
+    }   
     ]
 }
