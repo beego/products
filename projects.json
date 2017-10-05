@@ -485,6 +485,15 @@
         "Src": "https://github.com/george518/PPGo_Job",
         "Submitter": "GeorgeHao",
         "Date": "2017-09-23"
-    }   
+    },
+    {
+        "Name": "信息发布系统",
+        "Thumb": "post/thumb.png",
+        "Desc": "信息发布系统,将用户发布的信息离线推送到多个b2b网站",
+        "Url": "https://vip.shang76.cn",
+        "Src": "https://github.com/bolls",
+        "Submitter": "bolls",
+        "Date": "2017-10-05"
+    }      
     ]
 }
