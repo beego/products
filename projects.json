@@ -494,6 +494,15 @@
         "Src": "https://github.com/bolls",
         "Submitter": "bolls",
         "Date": "2017-10-05"
-    }      
+    },
+    {
+        "Name": "PPGo-ApiAdmin API管理后台",
+        "Thumb": "PPGo_ApiAdmin/thumb.png",
+        "Desc": "restFul风格的API管理后台,基于beego和layui",
+        "Url": "http://www.haodaquan.com/83",
+        "Src": "https://github.com/george518/PPGo_ApiAdmin",
+        "Submitter": "GeorgeHao",
+        "Date": "2017-10-11"
+    }     
     ]
 }
