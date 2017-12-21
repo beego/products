@@ -505,6 +505,15 @@
         "Date": "2017-10-11"
     },
     {
+        "Name": "SDRMS轻量级权限管理系统",
+        "Thumb": "sdrms/1.png",
+        "Desc": "基于Beego开发的易用、易扩展、界面友好的轻量级功能权限管理系统",
+        "Url": "http://blog.csdn.net/lhtzbj12/article/details/78847482",
+        "Src": "https://github.com/lhtzbj12/sdrms",
+        "Submitter": "lhtzbj12",
+        "Date": "2017-12-20"
+    },    
+    {
         "Name": "小蓝博客",
         "Thumb": "aicyun/thumb.png",
         "Desc": "小蓝博客,基于beego和dux,部署于nginx",
@@ -512,6 +521,6 @@
         "Src": "",
         "Submitter": "aicyun",
         "Date": "2017-12-21"
-    }      
+    }
     ]
 }
