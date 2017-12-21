@@ -503,6 +503,15 @@
         "Src": "https://github.com/george518/PPGo_ApiAdmin",
         "Submitter": "GeorgeHao",
         "Date": "2017-10-11"
-    }     
+    },
+    {
+        "Name": "小蓝博客",
+        "Thumb": "aicyun/thumb.png",
+        "Desc": "小蓝博客,基于beego和dux,部署于nginx",
+        "Url": "https://www.aicyun.com",
+        "Src": "",
+        "Submitter": "aicyun",
+        "Date": "2017-12-21"
+    }      
     ]
 }
