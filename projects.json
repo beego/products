@@ -521,6 +521,15 @@
         "Src": "",
         "Submitter": "aicyun",
         "Date": "2017-12-21"
+    },
+    {
+        "Name": "可开箱即用的Rabbit简单网站",
+        "Thumb": "rabbit/thumb.png",
+        "Desc": "基于Beego开发的简单网站, 支持基本用户RBAC认证, 文章, 相册功能, 友好的后台管理",
+        "Url": "http://tuzi.lenggirl.com",
+        "Src": "https://github.com/hunterhug/rabbit",
+        "Submitter": "hunterhug",
+        "Date": "2018-01-03"
     }
     ]
 }
