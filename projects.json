@@ -530,6 +530,15 @@
         "Src": "https://github.com/hunterhug/rabbit",
         "Submitter": "hunterhug",
         "Date": "2018-01-03"
+    },
+    {
+       "Name": "开心古诗词美文",
+        "Thumb": "kaixin00/thumb.jpg",
+        "Desc": "基于Beego开发的古诗词美文网站,使用Layui布局,部署于nginx阿里云",
+        "Url": "https://www.kaixin00.com",
+        "Src": "https://github.com/wsy555/wangsy.github.io",
+        "Submitter": "wangsy",
+        "Date": "2018-1-22"
     }
     ]
 }
