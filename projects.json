@@ -539,6 +539,15 @@
         "Src": "https://github.com/wsy555/wangsy.github.io",
         "Submitter": "wangsy",
         "Date": "2018-1-22"
+    },
+    {
+        "Name": "AirAd",
+        "Thumb": "airad/thumb.png",
+        "Desc": "基于Beego开发的空气质量AQI实时发布广告系统",
+        "Url": "https://www.liudp.cn",
+        "Src": "https://github.com/rubinliudongpo/airad",
+        "Submitter": "rubinliudongpo",
+        "Date": "2018-4-05"
     }
     ]
 }
