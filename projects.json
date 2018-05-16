@@ -548,6 +548,15 @@
         "Src": "https://github.com/rubinliudongpo/airad",
         "Submitter": "rubinliudongpo",
         "Date": "2018-4-05"
+    },
+    {
+        "Name": "Godoc",
+        "Thumb": "godoc/godoc.png",
+        "Desc": "GOdoc就是一个非常适合IT团队的在线文档分享工具，支持数据字典、API 文档等",
+        "Url": "https://godoc.kphcdr.com",
+        "Src": "https://github.com/kphcdr/godoc",
+        "Submitter": "kphcdr",
+        "Date": "2018-5-16"
     }
     ]
 }
