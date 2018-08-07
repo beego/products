@@ -549,5 +549,14 @@
         "Submitter": "rubinliudongpo",
         "Date": "2018-4-05"
     }
+    {
+        "Name": "liteblog",
+        "Thumb": "liteblog/thumb.png",
+        "Desc": "基于beego开发的轻聊版博客，目标：简单，易用，方便",
+        "Url": "http://xianyan.hellowcloud.com/",
+        "Src": "https://github.com/jicg/liteblog",
+        "Submitter": "jicg",
+        "Date": "2018-8-07"
+    }
     ]
 }
