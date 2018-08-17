@@ -548,6 +548,15 @@
         "Src": "https://github.com/rubinliudongpo/airad",
         "Submitter": "rubinliudongpo",
         "Date": "2018-4-05"
-    }
+    },
+        {
+            "Name": "Beego inana blog",
+            "Thumb": "inana/inana.png",
+            "Desc": "Beego框架开发的个人博客站点，功能完善：文章页、心情页、相册页、友链页、后台管理、权限管理、自研发评论系统、markdown编辑、图片上传、相册管理等",
+            "Url": "https://www.inana.top",
+            "Src": "https://github.com/griffin702/beego_blog",
+            "Submitter": "武鋆",
+            "Date": "2018-08-17"
+        }
     ]
 }
