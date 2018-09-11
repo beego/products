@@ -550,7 +550,7 @@
         "Date": "2018-4-05"
     },
     {
-        "Name": "PPGo-Job V2.2 新版定时任务管理器",
+        "Name": "PPGo-Job V2.2 新版定时任务管理器 新",
         "Thumb": "PPGo_Job/demo2.png",
         "Desc": "新版定时任务管理，beego+layui,RBAC,支持多服务器分发任务",
         "Url": "http://www.haodaquan.com/topics/1",
