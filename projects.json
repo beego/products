@@ -548,6 +548,15 @@
         "Src": "https://github.com/rubinliudongpo/airad",
         "Submitter": "rubinliudongpo",
         "Date": "2018-4-05"
+    },
+    {
+        "Name": "GOA在线问答系统",
+        "Thumb": "goa/goa.png",
+        "Desc": "基于 Beego + Vue 开发的在线问答系统",
+        "Url": "http://goaio.vip",
+        "Src": "https://github.com/Qsnh/goa",
+        "Submitter": "XiaoTeng",
+        "Date": "2018-11-14"
     }
     ]
 }
