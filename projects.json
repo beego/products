@@ -367,32 +367,32 @@
             "Url": "https://22v.net/",
             "Src": "https://github.com/zituocn/22v",
             "Submitter": "Sam",
-            "Date": "2016-08-21"           
+            "Date": "2016-08-21"
         },
         {
-        	"Name": "mgweb", 
-        	"Thumb": "mgweb/thumb.jpg", 
-        	"Desc": "mongoldb web管理工具", 
+        	"Name": "mgweb",
+        	"Thumb": "mgweb/thumb.jpg",
+        	"Desc": "mongoldb web管理工具",
         	"Url": "http://mgweb.no3g.com/",
-        	"Src": "https://github.com/29392964/mgweb", 
+        	"Src": "https://github.com/29392964/mgweb",
         	"Submitter": "Sec",
         	"Date": "2016-08-29"
 		},
 		{
-        	"Name": "CMS", 
-        	"Thumb": "cms/cms.png", 
-        	"Desc": "后台管理系统基础功能(权限管理、用户管理、用户组管理)", 
+        	"Name": "CMS",
+        	"Thumb": "cms/cms.png",
+        	"Desc": "后台管理系统基础功能(权限管理、用户管理、用户组管理)",
         	"Url": "#",
-        	"Src": "https://github.com/crazy-wolf/cms", 
+        	"Src": "https://github.com/crazy-wolf/cms",
         	"Submitter": "CrazyWolf",
         	"Date": "2016-09-04"
 		},
 		{
-        	"Name": "OPMS", 
-        	"Thumb": "opms/opms.png", 
-        	"Desc": "OPMS管理系统是意思是PMS+OA，项目+办公管理。符合日常项目和OA管理，特别适合扁平化管理的微中小企业。OPMS采用是Beego框架和Bootstrap前端框架构建立，适合不同平台，不同的终端，简单方便实用的原则。数据库采用Mysql，缓存采用Redis。在部署过程中，如果没有Redis，不影响使用。本系统是免费开源的软件，部署方便。", 
+        	"Name": "OPMS",
+        	"Thumb": "opms/opms.png",
+        	"Desc": "OPMS管理系统是意思是PMS+OA，项目+办公管理。符合日常项目和OA管理，特别适合扁平化管理的微中小企业。OPMS采用是Beego框架和Bootstrap前端框架构建立，适合不同平台，不同的终端，简单方便实用的原则。数据库采用Mysql，缓存采用Redis。在部署过程中，如果没有Redis，不影响使用。本系统是免费开源的软件，部署方便。",
         	"Url": "http://opms.demo.milu365.cn/",
-        	"Src": "https://github.com/lock-upme/OPMS", 
+        	"Src": "https://github.com/lock-upme/OPMS",
         	"Submitter": "lock",
         	"Date": "2016-09-12"
 		},
@@ -435,36 +435,36 @@
 	{
 	    "Name": "SoftRadius计费系统",
 		"Thumb": "softradius/thumb.png",
-	    "Desc": "基于beego开发的radius计费系统,用户名:admin,密码:admin", 
-	    "Url": "https://github.com/cuu/softradius_system", 
-	    "Src": "https://github.com/cuu/softradius_system", 
+	    "Desc": "基于beego开发的radius计费系统,用户名:admin,密码:admin",
+	    "Url": "https://github.com/cuu/softradius_system",
+	    "Src": "https://github.com/cuu/softradius_system",
 	    "Submitter": "cuu",
 	    "Date": "2017-03-17"
 	},
 	{
 	    "Name": "集成开发平台",
 		"Thumb": "hauth/thumb.png",
-	    "Desc": "基于beego开发的大数据分析平台,只开源权限管理模块,用户名:demo,密码:123456", 
-	    "Url": "https://github.com/hzwy23/hauth", 
-	    "Src": "https://github.com/hzwy23/hauth", 
+	    "Desc": "基于beego开发的大数据分析平台,只开源权限管理模块,用户名:demo,密码:123456",
+	    "Url": "https://github.com/hzwy23/hauth",
+	    "Src": "https://github.com/hzwy23/hauth",
 	    "Submitter": "hzwy23",
 	    "Date": "2017-03-17"
 	},
    	{
 	    "Name": "mojotv魔焦TV",
 	    "Thumb": "mojotv/index.png",
-	    "Desc": "轻松学英语,欧美,搞笑gif动图短片,最新欧美娱乐资讯", 
-	    "Url": "https://www.mojotv.cn", 
-	    "Src": "https://github.com/JJJJJJJerk", 
+	    "Desc": "轻松学英语,欧美,搞笑gif动图短片,最新欧美娱乐资讯",
+	    "Url": "https://www.mojotv.cn",
+	    "Src": "https://github.com/JJJJJJJerk",
 	    "Submitter": "Eric Zhou",
 	    "Date": "2017-07-16"
 	},
 	{
 	    "Name": "SINGULERP",
 	    "Thumb": "singulerp/Dashboard.png",
-	    "Desc": "SaaS Cloud based ERP for the manufacturing industry.", 
-	    "Url": "https://singulerp.com", 
-	    "Src": "", 
+	    "Desc": "SaaS Cloud based ERP for the manufacturing industry.",
+	    "Url": "https://singulerp.com",
+	    "Src": "",
 	    "Submitter": "Caslino",
 	    "Date": "2017-07-27"
 	},
@@ -512,7 +512,7 @@
         "Src": "https://github.com/lhtzbj12/sdrms",
         "Submitter": "lhtzbj12",
         "Date": "2017-12-20"
-    },    
+    },
     {
         "Name": "小蓝博客",
         "Thumb": "aicyun/thumb.png",
@@ -548,6 +548,15 @@
         "Src": "https://github.com/rubinliudongpo/airad",
         "Submitter": "rubinliudongpo",
         "Date": "2018-4-05"
+    },
+    {
+        "Name": "Todo",
+        "Thumb": "todo/todo.png",
+        "Desc": "基于Beego开发的todo应用",
+        "Url": "https://gotodo.itswcg.com",
+        "Src": "https://github.com/itswcg/Todo-Go",
+        "Submitter": "itswcg",
+        "Date": "2019-4-28"
     }
     ]
 }
