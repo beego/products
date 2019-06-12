@@ -548,6 +548,15 @@
         "Src": "https://github.com/rubinliudongpo/airad",
         "Submitter": "rubinliudongpo",
         "Date": "2018-4-05"
+    },
+    {
+        "Name": "moshopserver",
+        "Thumb": "moshopserver/moshopserver.jpg",
+        "Desc": "基于Beego开发的微信小程序商城后台系统",
+        "Url": "",
+        "Src": "https://github.com/harlanc/moshopserver",
+        "Submitter": "harlanc",
+        "Date": "2019-6-12"
     }
     ]
 }
