@@ -548,6 +548,15 @@
         "Src": "https://github.com/rubinliudongpo/airad",
         "Submitter": "rubinliudongpo",
         "Date": "2018-4-05"
+    },
+    {
+      "Name": "LeeChan Blog",
+      "Thumb": "leechan/thumb.png",
+      "Desc": "基于Beego开发的个人博客，包含最新评论，点击排行，档案统计，留言，评论，回复留言，回复评论，日志，主题颜色修改等等功能",
+      "Url": "http://leechan.online",
+      "Src": "https://github.com/1920853199/go-blog",
+      "Submitter": "chenli",
+      "Date": "2019-11-20"
     }
     ]
 }
