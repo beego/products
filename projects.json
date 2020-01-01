@@ -1,6 +1,15 @@
 {
     "Projects": [
         {
+            "Name": "支付系统", 
+            "Thumb": "http://139.196.82.110/doc/boss3.png", 
+            "Desc": "Beego official website",
+            "Url": "http://beego.me", 
+            "Src": "https://github.com/kongyuebin1/dongfeng-pay", 
+            "Submitter": "东风支付系统",
+            "Date": "2020-01-01"
+        },
+        {
             "Name": "Beego Web",
             "Thumb": "beeweb/thumb.jpg",
             "Desc": "Beego official website",
