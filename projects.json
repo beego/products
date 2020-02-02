@@ -548,6 +548,15 @@
         "Src": "https://github.com/rubinliudongpo/airad",
         "Submitter": "rubinliudongpo",
         "Date": "2018-4-05"
+    },
+    {
+        "Name": "博客-wangkekai's blog",
+        "Thumb": "wkekaiblog/blog.png",
+        "Desc": "博客-简约页面，带后台",
+        "Url": "https://wangkekai.cn/",
+        "Src": "https://github.com/wkekai/goblog",
+        "Submitter": "wangkekai",
+        "Date": "2020-02-02"
     }
     ]
 }
