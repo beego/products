@@ -548,6 +548,15 @@
         "Src": "https://github.com/rubinliudongpo/airad",
         "Submitter": "rubinliudongpo",
         "Date": "2018-4-05"
+    },
+    {
+        "Name": "goadmin",
+        "Thumb": "goadmin/thumb.jpg",
+        "Desc": "基于Beego开发的后台内容管理系统，能方便快捷开发一个自己的内容管理平台，可以自定义模型，显示列表字段，字段分组，文章分类，验证规则，权限管理，菜单管理，记录操作日志，websocket聊天等，类似于thinkphp的onethink功能",
+        "Url": "http://goadmin.woaishare.cn",
+        "Src": "https://github.com/chenzhnehui/goadmin",
+        "Submitter": "chenzhenhui",
+        "Date": "2020-3-25"
     }
     ]
 }
