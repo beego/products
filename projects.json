@@ -548,6 +548,15 @@
         "Src": "https://github.com/rubinliudongpo/airad",
         "Submitter": "rubinliudongpo",
         "Date": "2018-4-05"
+    },
+    {
+        "Name": "Skeleton",
+        "Thumb": "skeleton/logo-big.png",
+        "Desc": "A complete Golang and Nuxt boilerplate for your project with backend API, frontend, tests and CI/CD pipelines.",
+        "Url": "https://skeleton-gadelkareem.herokuapp.com/",
+        "Src": "https://gitlab.com/gadelkareem/skeleton",
+        "Submitter": "gadelkareem",
+        "Date": "2020-7-27"
     }
     ]
 }
