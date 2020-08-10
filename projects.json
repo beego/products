@@ -548,6 +548,18 @@
         "Src": "https://github.com/rubinliudongpo/airad",
         "Submitter": "rubinliudongpo",
         "Date": "2018-4-05"
-    }
+    },
+{
+        "Name": "勤劳的码农｜专注技术分享",
+        "Thumb": "manong/thumb.jpg",
+        "Desc": "基于Beego开发的个人博客",
+        "Url": "https://gentleli.cn",
+        "Src": "https://github.com/ObrookO/blog",
+        "Submitter": "ObrookO",
+        "Date": "2020-08-10"
+    },
+
+
+
     ]
 }
