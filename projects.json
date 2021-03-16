@@ -548,6 +548,15 @@
         "Src": "https://github.com/rubinliudongpo/airad",
         "Submitter": "rubinliudongpo",
         "Date": "2018-4-05"
-    }
+    },
+    {
+		"Name": "YSHOP-GO",
+		"Thumb": "YSHOP-GO/index.png",
+		"Desc": "SHOP-GO基于当前流行技术组合的前后端RBAC管理系统：Go1.15.x+Beego2.x+Jwt+Redis+Mysql8+Vue 的前后端分离系统，权限控制采用 RBAC，支持数据字典与数据权限管理，支持动态路由等",
+		"Url": "https://go.yixiang.co",
+		"Src": "https://github.com/guchengwuyue/YSHOP-GO",
+		"Submitter": "hupeng",
+		"Date": "2021-03-08"
+    },
     ]
 }
