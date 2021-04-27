@@ -1,6 +1,15 @@
 {
     "Projects": [
         {
+          "Name": "go-shop-b2c",
+          "Thumb": "go-shop-b2c/web.jpg",
+          "Desc": "一个用Go语言的beego框架写的B2C商城",
+          "Url": "https://github.com/CleverBamboo/go-shop-b2c",
+          "Src": "https://github.com/CleverBamboo/go-shop-b2c",
+          "Submitter": "Alfred",
+          "Date": "2021-04-27"
+        },
+        {
             "Name": "Beego Web",
             "Thumb": "beeweb/thumb.jpg",
             "Desc": "Beego official website",
